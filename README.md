@@ -32,3 +32,9 @@ We created an installation called 'Brainy-Gutty' which explores the gut-brain co
 ## HOW
 
 We built an installation where one computer running Open BCI is used for detecting the signals produced simultaneously by the brain and the gut. The signals are transmitted in real time to another computer where Arduino is used to modulate the power of two pumps connected to the brain and gut signals respectively. The pumps inflate a bunch of plastic bags alternatively, according to the strength of the brain and gut signals. The plastic bags sustain two transparent plastic spheres containing liquids: one sphere is half filled with artificial blood, the other sphere is half filled with our saliva. The two spheres are lifted and lowered in synchrony with the gut-brain signals, exchanging their liquids through transparent plastic tubes.
+
+## Other information:
+*This repository was made by specific group members and uploaded to a temporary environment. This temporary environment has been manually transferred to a a more permanent Hack the Brain Github account. If any of the former team members wish to administer this repository and manage the master branch, then they can contact the current administrator of the repository to gain the proper acces privileges to do so.*
+
+## Video on Project InSync:
+[![Video image](http://handledmovie.com/get/player01.gif)](https://vimeo.com/177943248)
